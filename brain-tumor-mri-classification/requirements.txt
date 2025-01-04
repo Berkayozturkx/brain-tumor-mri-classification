@@ -1,0 +1,9 @@
+streamlit
+tensorflow
+opencv-python
+numpy
+pandas
+matplotlib
+seaborn
+imutils
+hashlib
