@@ -1,3 +1,4 @@
+![uygulama](https://github.com/user-attachments/assets/8de1f514-0cf3-43dc-8fa3-c5085f5b2b77)
 # MRI Görüntüleri ile Beyin Tümörü Sınıflandırma
 
 Bu proje, beyin MR görüntülerini farklı kategorilerde sınıflandırmak için tasarlanmış bir Streamlit uygulamasıdır: sağlıklı beyin, iyi huylu tümör, kötü huylu tümör ve hipofiz tümörü. Uygulama, kullanıcı tarafından yüklenen görüntülere dayalı tahminler yapmak için önceden eğitilmiş bir Evrişimsel Sinir Ağı (CNN) modeli kullanır.
